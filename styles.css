@@ -330,11 +330,14 @@ Grocery List
 
 .flex-con{
   display: flex;
-  /* justify-content: center; */
+  justify-content: center;
   align-items: center;
 }
 
 .flex-con img{
-  width: 15%;
+  width: 30%;
   padding-bottom: 18px;
+  border-radius: 10%;
+  border-bottom-left-radius: 20%;
+  border-bottom-right-radius: 20%;
 }
