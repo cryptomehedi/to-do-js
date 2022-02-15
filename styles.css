@@ -326,3 +326,14 @@ Grocery List
 .clear-btn:hover {
   color: var(--clr-red-dark);
 }
+
+.flex-con{
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.flex-con img{
+  width: 15%;
+  padding-bottom: 18px;
+}
